@@ -1,4 +1,4 @@
-# Bingo_Game
+# Bingo_Game Using Python
 
 1. Randomly generate a series of number between 0 and 90.
 2. Allocate each number to a place in a 2D list.
